@@ -44,10 +44,10 @@ blacken (R (a, x, b)) = B (C (inc a), x, C (inc b))
 inc :: Black a b -> Black a [b]
 inc = tickB
 
-tickB :: Black a b -> Black a c
+tickB :: Black a b -> Black a [b]
 tickB E = E
 tickB (B (a, x, b)) = B (tickR a, x, tickR b)
 
-tickR :: Red Black a b -> Red Black a c
+tickR :: Red Black a b -> Red Black a [b]
 tickR (C t) = C (tickB t)
 tickR (R (a,x,b)) = R (tickB a, x, tickB b)
