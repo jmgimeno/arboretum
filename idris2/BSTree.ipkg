@@ -1,0 +1,5 @@
+package BSTree
+
+modules = BSTree
+
+depends = contrib
