@@ -14,6 +14,7 @@ A place where to play with some trees.
 - [InsertionSort in Idris](https://stackoverflow.com/questions/24105461/sorted-list-in-idris-insertion-sort)
 - [Verified BST Idris](https://www.reddit.com/r/Idris/comments/iq2m89/struggling_with_erasure_in_verified_binary_search/)
 - [Verified AVLs in Haskell](https://github.com/oisdk/verified-avl)
+- [Proving that merging two sorted lists produces a sorted list](https://codereview.stackexchange.com/questions/194203/proving-that-merging-two-sorted-lists-produces-a-sorted-list)
 
 ## Bibliography
 
