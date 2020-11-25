@@ -1,11 +1,6 @@
 # Arboretum
 
-A place where to play with some trees.
-
-## TODOS
-
-- insert in Kahrs1
-- balanceR in Kahrs2
+A place where to play (mainly) with some trees.
 
 ## Reading list
 
@@ -13,7 +8,9 @@ A place where to play with some trees.
 - [Decidable Orderings in Idris](https://jerrington.me/posts/2016-11-11-total-order.lidr.html)
 - [InsertionSort in Idris](https://stackoverflow.com/questions/24105461/sorted-list-in-idris-insertion-sort)
 - [Verified BST Idris](https://www.reddit.com/r/Idris/comments/iq2m89/struggling_with_erasure_in_verified_binary_search/)
-- [Verified AVLs in Haskell](https://github.com/oisdk/verified-avl)
+- [Verifying Data Structures in Haskell](https://doisinkidney.com/posts/2017-04-23-verifying-data-structures-in-haskell-lhs.html)
+- [Verified AVLs in Haskell (post)](https://doisinkidney.com/posts/2018-07-30-verified-avl.html)
+- [Verified AVLs in Haskell (code)](https://github.com/oisdk/verified-avl)
 - [Proving that merging two sorted lists produces a sorted list](https://codereview.stackexchange.com/questions/194203/proving-that-merging-two-sorted-lists-produces-a-sorted-list)
 
 ## Bibliography
