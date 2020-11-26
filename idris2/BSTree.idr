@@ -1,8 +1,6 @@
 -- https://gist.github.com/polendri/98ff11c4d13e701d8bcc0fe04d67e11d
 -- https://www.reddit.com/r/Idris/comments/iq2m89/struggling_with_erasure_in_verified_binary_search/
 
-module BSTree
-
 import Data.DPair
 import Decidable.Equality
 import Decidable.Order
